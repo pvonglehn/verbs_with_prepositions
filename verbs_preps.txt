@@ -1,0 +1,103 @@
+Advertir	de	Te advierto de que no es como dices.
+Abusar	de	Juan abusa del chocolate.
+Acordarse	de	Tu madre se acuerda siempre de ti.
+Acostumbrarse	a	Estoy acostumbrado a hacerlo así.
+Acudir	a	No ha acudido a la cita.
+Acusar	de	Te han acusado de robar el regalo.
+Adueñarse	de	Se ha adueñado de tu casa.
+Alegrarse	de	Me alegro de que te vaya bien.
+Alternar	con	Altérnate con Juan para hacerlo
+Apiadarse	de	Apiádate de él. Lo ha hecho sin querer.
+Arrepentirse	de	Ana se arrepiente de lo que te hizo.
+Aspirar	a	Yo aspiro a ese puesto de trabajo.
+Asustarse	de	Luis se asusta de todo.
+Atreverse	a	No te atrevas a venir sin el regalo.
+Avergonzarse	de	Ella se avergonzó de lo que había hecho.
+Avisar	de	¿Te han avisado de la noticia?
+Burlarse	de	Ellos se burlan de él porque es más listo.
+Cansarse	de	Estoy cansado de tus mentiras.
+Caracterizarse	por	Su trabajo se caracteriza por su gran creatividad.
+Carecer	de	Él carece de modales.
+Casarse	con	Cristina se ha casado con Laura.
+Coincidir	con	Coincidió con su profesor en el autobús.
+Colaborar	con	Voy a colaborar contigo
+Comparar	con	No me compares con ellos.
+Comprometerse 	a	Me comprometo a terminarlo a tiempo.
+Conectar	con	Laura conecto con sus alumnos enseguida.
+Conectarse	a	Ellos se conectan a internet.
+Confiar	en	Confío en ti. Eres mi marido.
+Conformarse	con	Yo me conformo con que sean amables.
+Confundir	con	Me he confundido con lo que me ha dicho.
+Contar	con	Cuento contigo para el nuevo trabajo.
+Convencer	de	No me tienes que convencer de ir a tu fiesta. Voy a ir.
+Convertir	en	Se ha convertido en su favorito.
+Creer	en	Creo en lo que me dices. Nunca me has mentido.
+Cuidar	de	¿Cuidarás de mis gatos mientras esté fuera?
+Dedicarse	a	Ellos se dedican a ayudar a los más desfavorecidos.
+Depender	de	Todo depende de si vienes o no.
+Desconfiar	de	Desconfía de todo aquel que te ofrezca algo sin más.
+Desdecirse	por	Al final se decidieron por la casa más grande.
+Desistir	de	Desiste de llamarlo. No te va a responder.
+Desligarse	de	No te puedes desligar de ellos tan fácilmente.
+Despedirse	de	Despídete de tus amigos. Nos vamos ya.
+Desposeer	de	Le desposeyeron de todas sus posesiones.
+Despreocuparse	de	Despreocúpate de todo. Disfruta.
+Desvivirse	por	Yo me desvivo por mis hijos.
+Dimitir	de	Dimitió de todos sus cargos por un caso de corrupción.
+Diplomarse	en	Yo me diplomé en biología en una universidad peruana.
+Dirigirse	a	Dirígete a tus superiores con respeto.
+Disfrutar	de	Disfruta del paisaje. Es maravilloso.
+Disponer	de	No dispones de todo el tiempo del mundo.
+Empeñarse	en	Se ha empeñado en comprarlo.
+Enamorarse	de	Se ha enamorado de una chica mexicana.
+Encargarse	de	¿Te encargas tú de hacer la comida?
+Encontrarse	con	Me he encontrado con Luis en el metro.
+Enfadarse	con	No te enfades con él. Lo ha hecho sin querer.
+Enfrentarse	a	Hay que enfrentarse a esta situación con coraje.
+Entretenerse	con	Te entretienes con una mosca.
+Entrometerse	en	No te entrometas en mis asuntos.
+Entusiasmarse	con	Ella está entusiasmada con la idea.
+Enzarzarse	en	Se enzarzaron en una discusión sin fin.
+Escapar	de	Escapa de ese trabajo lo antes posible. Es horrible.
+Fiarse	de	No te fíes de lo que te digan. Son unos mentirosos.
+Fijarse	en	Fíjate en lo que lleva puesto. Es muy moderno.
+Fugarse	de	¿Alguien se ha fugado de esa cárcel?
+Hablar	de	Háblame de lo que has hecho en el trabajo.
+Hablar	sobre	Háblame sobre lo que has hecho en el trabajo.
+Helarse	de	Aquí nos estamos helando de frío.
+Incomodarse 	con	Jorge se incomodó con la insinuación de Dani.
+Influir	en	Su discurso ha influido en el equipo.
+Informar 	de	Me acaban de informar de tu ascenso.
+Informar	sobre	Me acaban de informar sobre tu ascenso.
+Ingresar	en	Los detenidos han ingresado en prisión esta mañana.
+Insistir	en	Ellos insisten en que te quedes.
+Jactarse	de	No es bueno jactarse tanto de su derrota.
+Jugar	a	Vosotras jugáis a billar muy bien.
+Llevarse	con	¿Cómo se lleva con tu perro?
+Mezclarse	con	A mí no me gusta mezclar leche con zumo.
+Mirar	por	Mira más por ti y no te preocupes tanto de los demás.
+Morirse	de	Enciende la calefacción. Me muero de frío.
+Obstinarse	en	Él se ha obstinado en hacer ese viaje.
+Olvidarse	de	Olvídate ya del examen. Ya está hecho.
+Participar	en	Quiero participar en la reunión de vecinos.
+Pensar	en	Piensa en lo que te ha dicho.
+Preferir	a	Yo prefiero la bici al coche.
+Preocuparse	de	Los políticos no se preocupan del cambio climático y eso no es bueno.
+Preguntar	por	Acaban de llamar preguntando por ti.
+Preocuparse	por	Los políticos no se preocupan por el cambio climático y eso no es bueno.
+Quejarse	de	Desde que estás aquí te quejas de todo. ¡Basta!
+Radicar	en	La dificultad de su tesis radica en la terminología.
+Rebelarse	contra	Debería rebelarnos todos contra las injusticias.
+Reconciliarse	con	Laura se ha reconciliado con su marido.
+Renunciar	a	Renuncio al nuevo trabajo para estar más tiempo contigo.
+Retractarse	de	El acusado se ha retractado en el juicio de todo lo que dijo anteriormente.
+Saber	de	Ella sabe prácticamente de todo. Es muy inteligente.
+Soñar	con	Julio sueña con ser algún día un gran arquitecto.
+Sorprenderse	de	Ellos no se sorprenden de nada, ni siquiera cuando les he dicho que era fiesta.
+Sucumbir	a	Julieta sucumbió finalmente a los encantos de Romeo.
+Tardar	en	Si tardas en sacar la cena, me voy a desmayar.
+Tratar	de	Trata de concentrarte ahora porque es muy importante.
+Tratar	sobre	Esta película trata sobre los feminicidios.
+Vanagloriarse	de	Roberto se vanagloria siempre de sus conquistas. ¡Qué estupido!
+Vengarse	de	Vengarse de él no sirve de nada. Es mejor que lo ignores.
+Versar	sobre	La conferencia versa sobre la vida de Quevedo.
